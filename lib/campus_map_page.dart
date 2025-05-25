@@ -28,7 +28,7 @@ class CampusMapPage extends StatelessWidget {
             SizedBox(height: 24),
             Expanded(
               child: Image.asset(
-                'assets/map.png',
+                'assets/map.PNG',
                 fit: BoxFit.contain,
               ),
             ),
